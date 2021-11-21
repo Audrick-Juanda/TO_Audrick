@@ -1,0 +1,10 @@
+Pena, 1000
+Pensil, 750
+Kertas, 250
+Buku, 1100
+Penggaris, 750
+Spidol, 920
+Penghapus, 100
+Gunting, 400
+Pisau, 550
+Tipex, 880
